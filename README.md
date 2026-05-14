@@ -1,14 +1,29 @@
-# Project Title: [Your Project Title]
+# Project Title: A Sentiment-Based Analysis of Online Customer Reviews and Their Influence on Product Ratings
 
 ## Team Details
 | Roll Number  | Name  |
 |--------------|-------|
-| 2210991234   | Name1 |
-| 2210991235   | Name2 |
-| 2210991236   | Name3 |
+| 2210990998   | Vanshika Choudhary |
+| 2210990784   | Sanchita Dutt |
 
 ## Type
-Research / Copyright / Patent
+Research
 
 ## Current Status
-[e.g., Submitted / Under Review / Granted]
+Submitted
+
+## Dataset
+The dataset used in this project (`Reviews.csv`) contains customer reviews for sentiment analysis.
+
+> **Note:** The dataset exceeds GitHub's file size limit (286 MB) and is hosted externally.
+
+| Detail | Info |
+|--------|------|
+| File Name | Reviews.csv |
+| Size | 286 MB |
+| Format | CSV |
+| Source | Amazon Product Reviews |
+
+**[Download Dataset](https://drive.google.com/file/d/1tIlM8mB5gwT9z42ecfs4YA13rNH7YKU1/view?usp=drive_link)**
+
+
